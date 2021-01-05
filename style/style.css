@@ -102,4 +102,191 @@ header nav a:hover{
 
 .carrousel-filmes{
     margin-top: 5px;
+
+    transition: .3s ease all;
+}
+
+.item1 a{
+
+    height: 330px;
+
+    background-repeat: no-repeat;
+
+    background-image: url(../imgs/minis/mini1_1.jpg);
+
+    transition: .3s ease all;
+
+}
+
+.item1 a:hover{
+    
+    background-image: url(../imgs/minis/mini1_2.jpg);
+}
+
+.item2 a{
+
+    height: 330px;
+
+    background-repeat: no-repeat;
+
+    background-image: url(../imgs/minis/mini2_1.jpg);
+
+    transition: .3s ease all;
+
+}
+
+.item2 a:hover{
+
+    background-image: url(../imgs/minis/mini2_2.jpg);
+
+}
+
+.item3 a{
+
+    height: 330px;
+
+    background-repeat: no-repeat;
+
+    background-image: url(../imgs/minis/mini3_1.jpg);
+
+    transition: .3s ease all;
+
+}
+
+.item3 a:hover{
+
+    height: 480px;
+
+    background-repeat: no-repeat;
+
+    background-image: url(../imgs/minis/mini3_2.jpg);
+
+    transition: .3s ease all;
+
+}
+
+.item4 a{
+
+    height: 330px;
+
+    background-repeat: no-repeat;
+
+    background-image: url(../imgs/minis/mini4_1.jpg);
+
+    transition: .3s ease all;
+
+}
+
+.item4 a:hover{
+
+    background-image: url(../imgs/minis/mini4_2.jpg);
+
+}
+
+.item5 a{
+
+    height: 330px;
+
+    background-repeat: no-repeat;
+
+    background-image: url(../imgs/minis/mini5_1.jpg);
+
+    transition: .3s ease all;
+
+}
+
+.item5 a:hover{
+
+    background-image: url(../imgs/minis/mini5_2.jpg);
+
+}
+
+.item6 a{
+
+    height: 330px;
+
+    background-repeat: no-repeat;
+
+    background-image: url(../imgs/minis/mini6_1.jpg);
+
+    transition: .3s ease all;
+
+}
+
+.item6 a:hover{
+
+    background-image: url(../imgs/minis/mini6_2.jpg);
+
+}
+
+.item7 a{
+
+    height: 330px;
+
+    background-repeat: no-repeat;
+
+    background-image: url(../imgs/minis/mini7_1.jpg);
+
+    transition: .3s ease all;
+
+}
+
+.item7 a:hover{
+
+    background-image: url(../imgs/minis/mini7_2.jpg);
+
+}
+
+.item8 a{
+
+    height: 330px;
+
+    background-repeat: no-repeat;
+
+    background-image: url(../imgs/minis/mini8_1.jpg);
+
+    transition: .3s ease all;
+
+}
+
+.item8 a:hover{
+
+    background-image: url(../imgs/minis/mini8_2.jpg);
+
+}
+
+.item9 a{
+
+    height: 330px;
+
+    background-repeat: no-repeat;
+
+    background-image: url(../imgs/minis/mini9_1.jpg);
+
+    transition: .3s ease all;
+
+}
+
+.item9 a:hover{
+
+    background-image: url(../imgs/minis/mini9_2.jpg);
+
+}
+
+.item10 a{
+
+    height: 330px;
+
+    background-repeat: no-repeat;
+
+    background-image: url(../imgs/minis/mini10_1.jpg);
+
+    transition: .3s ease all;
+
+}
+
+.item10 a:hover{
+
+    background-image: url(../imgs/minis/mini10_2.jpg);
+
 }
