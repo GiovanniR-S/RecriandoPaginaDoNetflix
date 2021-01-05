@@ -97,6 +97,7 @@ header nav a:hover{
 
     cursor: pointer;
     transition: .3s ease all;
+
 }
 
 .botao:hover{
@@ -106,6 +107,15 @@ header nav a:hover{
 
 .botao i{
     margin-right: 5px;
+}
+
+.botao a {
+    text-decoration: none;
+    color: white;
+}
+
+.botao:hover a {
+    color: black;
 }
 
 .box-filme{
