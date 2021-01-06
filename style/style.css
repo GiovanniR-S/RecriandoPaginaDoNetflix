@@ -29,6 +29,11 @@ header .logo{
     color: var(--vermelho);
     font-family: "Arial Black", Times;
     font-size: 40px;
+
+}
+
+header .logo a{
+    color: var(--vermelho);
 }
 
 header nav a {
